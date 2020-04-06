@@ -1,6 +1,4 @@
 # free-protocol-project
-A repository for the development of protocols for detection of novel and exisiting pathogens
-
 
 A free and open framework for the detection, analysis and potential treatment of novel pathogens.
 
