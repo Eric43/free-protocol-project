@@ -4,11 +4,8 @@ A free and open framework for the detection, analysis and potential treatment of
 
 Eric W. Olle and Rahul Gupta
 
-Developed for Arnold Ventures LLC.
-
-https://www.arnoldventures.org/
-
-Executive Summary
+Developed to start an open and free scinece project using existing prior art.  Inspired by Free Software Foundatoin and Arnold Ventures LLC. 
+Summary
 
 Currently, the world is in a pandemic caused by a novel corona virus that can cause a range of symptoms following infection.  Infected persons can present as asymptomatic to full blown acute respiratory distress syndrome (ARDS) and current patient populations indicate that around 8% of all infected patients need hospitalization and an infection is mortal to around 1.4 % of the patients.  It is estimated that this virus will have a devastating impact on humanity and the global economy.  Therefore, a rapid testing system for COVID-19 that minimizes the need for specialty equipment and training is tantamount to humanities long  term survival.  In addition, this system of testing needs to lead to additional innovation and free to modify to allow for adaption to future emergent pathogens.
 
